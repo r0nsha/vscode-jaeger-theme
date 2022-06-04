@@ -1872,7 +1872,7 @@
     "panel.background": "#16191c",
     "panel.border": "#b8b5b02a",
     "panelTitle.activeBorder": "#87dcea",
-    "panelTitle.activeForeground": "#fb2c2c",
+    "panelTitle.activeForeground": "#e1dfdc",
     "panelTitle.inactiveForeground": "#b8b5b066",
     "badge.background": "#2b333b",
     "badge.foreground": "#e1dfdc",
