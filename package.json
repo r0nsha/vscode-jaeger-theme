@@ -1,21 +1,24 @@
 {
-    "name": "jaeger-theme",
-    "displayName": "Jaeger Theme",
-    "description": "A dark and minimal theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.46.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Jaeger (Dark)",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Jaeger (Dark)-color-theme.json"
-            }
-        ]
-    }
+  "name": "jaeger-theme",
+  "displayName": "Jaeger Theme",
+  "description": "A dark and minimal theme",
+  "repository": {
+    "url": "https://github.com/r0nsha/vscode-jaeger-theme"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Jaeger (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Jaeger (Dark)-color-theme.json"
+      }
+    ]
+  }
 }
