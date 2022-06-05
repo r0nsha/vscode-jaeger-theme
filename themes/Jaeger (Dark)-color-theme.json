@@ -2000,11 +2000,11 @@
     "editorGutter.commentRangeForeground": "#6f6e6c",
     "debugExceptionWidget.background": "#202428",
     "debugExceptionWidget.border": "#202428",
-    "editorInlayHint.foreground": "#717d84",
+    "editorInlayHint.foreground": "#555d62",
     "editorInlayHint.background": "#00000000",
-    "editorInlayHint.typeForeground": "#717d84",
+    "editorInlayHint.typeForeground": "#555d62",
     "editorInlayHint.typeBackground": "#00000000",
-    "editorInlayHint.parameterForeground": "#717d84",
+    "editorInlayHint.parameterForeground": "#555d62",
     "editorInlayHint.parameterBackground": "#00000000"
   }
 }
