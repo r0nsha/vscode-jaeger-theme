@@ -15,9 +15,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Jaeger (Dark)",
+        "label": "Jaeger Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Jaeger (Dark)-color-theme.json"
+        "path": "./themes/Jaeger Dark.json"
+      },
+      {
+        "label": "Jaeger Dark Extended",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Jaeger Dark Extended.json"
       }
     ]
   }

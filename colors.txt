@@ -12,7 +12,8 @@ background:
 
 syntax:
     keywords: #6699ff
-    literals: #ff7799
+    numbers: #aaaacc
+    strings: #ff7799
     highlights: #e8c184
     comments: #717d84
 
