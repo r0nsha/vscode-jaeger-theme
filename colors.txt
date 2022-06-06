@@ -1,0 +1,27 @@
+
+foreground:
+    lighter: #e1dfdc
+    light: #b8b5b0
+    dark: #888785
+
+background:
+    darker: #121415
+    dark: #16191c
+    light: #282828
+    lighter: #2b333b
+
+syntax:
+    keywords: #6699ff
+    literals: #ff7799
+    highlights: #e8c184
+    comments: #717d84
+
+selection:
+    foreground: #87dcea
+    background: #0e343c
+    border: #18535a
+
+indicators:
+    error: #f48771
+    warning: #e09912
+    info: #75beff
